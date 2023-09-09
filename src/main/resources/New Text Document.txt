@@ -3,3 +3,10 @@ void m1()
 int a,b;
 int c=a+b;
 }
+
+
+
+void m2()
+{
+
+}
